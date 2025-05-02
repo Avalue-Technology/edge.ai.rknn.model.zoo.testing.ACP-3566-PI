@@ -13,8 +13,8 @@ Please build and deploy RKNN Model Zoo sample code to the ACP-3566-PI with Debia
 ./rknn_LPRNet_demo <model_path> <image_path>
 ````
 **Testing Result.**
-![rknn_LPRNet_demo.01.JPG](https://raw.githubusercontent.com/Avalue-Technology/edge.ai.rknn.model.zoo.testing.ACP-3566-PI/refs/heads/main/MarkdownDocumentImages/rknn_LPRNet_demo.01.JPG "rknn_LPRNet_demo.01.JPG")
-![rknn_LPRNet_demo.02.JPG](https://raw.githubusercontent.com/Avalue-Technology/edge.ai.rknn.model.zoo.testing.ACP-3566-PI/refs/heads/main/MarkdownDocumentImages/rknn_LPRNet_demo.02.JPG "rknn_LPRNet_demo.02.JPG")
+![rknn_LPRNet_demo.01.jpg](https://raw.githubusercontent.com/Avalue-Technology/edge.ai.rknn.model.zoo.testing.ACP-3566-PI/refs/heads/main/MarkdownDocumentImages/rknn_LPRNet_demo.01.jpg "rknn_LPRNet_demo.01.JPG")
+![rknn_LPRNet_demo.02.png](https://raw.githubusercontent.com/Avalue-Technology/edge.ai.rknn.model.zoo.testing.ACP-3566-PI/refs/heads/main/MarkdownDocumentImages/rknn_LPRNet_demo.02.png "rknn_LPRNet_demo.02.png")
 
 **Reference.** [RKNN Model Zoo > LPRNet](https://github.com/airockchip/rknn_model_zoo/tree/main/examples/LPRNet "LPRNet")
 
